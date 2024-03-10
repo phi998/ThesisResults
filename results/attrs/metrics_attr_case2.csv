@@ -1,0 +1,236 @@
+positive,negative,occurrences,attr_name,type,importance,negative_perc,positive_perc
+1,0,1,office furniture,TITLE,0,0.0,1.0
+1,0,1,office supplies,TITLE,0,0.0,1.0
+19,4,23,product,TITLE,0,0.17391304347826086,0.8260869565217391
+2,0,2,company name,TITLE,0,0.0,1.0
+1,0,1,years,TITLE,0,0.0,1.0
+8,6,14,Unknown,TITLE,0,0.42857142857142855,0.5714285714285714
+3,0,3,price range,TITLE,0,0.0,1.0
+1,0,1,min,TITLE,0,0.0,1.0
+0,1,1,electric bike,TITLE,0,1.0,0.0
+1,0,1,production_rate,TITLE,0,0.0,1.0
+46,2,48,price,TITLE,0,0.041666666666666664,0.9583333333333334
+2,0,2,minimum order,TITLE,0,0.0,1.0
+2,1,3,item,TITLE,0,0.3333333333333333,0.6666666666666666
+3,0,3,review,TITLE,0,0.0,1.0
+0,1,1,product_review,TITLE,0,1.0,0.0
+1,0,1,supplier type,TITLE,0,0.0,1.0
+1,0,1,Store information,TITLE,0,0.0,1.0
+1,1,2,quantity,TITLE,0,0.5,0.5
+0,1,1,Color,TITLE,0,1.0,0.0
+1,0,1,communication,TITLE,0,0.0,1.0
+1,0,1,power tools,TITLE,0,0.0,1.0
+1,0,1,furniture type,TITLE,0,0.0,1.0
+6,0,6,category,TITLE,0,0.0,1.0
+1,0,1,news headline,TITLE,0,0.0,1.0
+1,0,1,news topic,TITLE,0,0.0,1.0
+2,0,2,news,TITLE,0,0.0,1.0
+1,0,1,datetime,TITLE,0,0.0,1.0
+23,6,29,other,TITLE,0,0.20689655172413793,0.7931034482758621
+8,0,8,hotel name,TITLE,0,0.0,1.0
+2,14,16,value,TITLE,0,0.875,0.125
+7,0,7,number of reviews,TITLE,0,0.0,1.0
+2,0,2,grade,TITLE,0,0.0,1.0
+22,1,23,address,TITLE,0,0.043478260869565216,0.9565217391304348
+14,1,15,date,TITLE,0,0.06666666666666667,0.9333333333333333
+11,6,17,hotel,TITLE,0,0.35294117647058826,0.6470588235294118
+1,0,1,categorie,TITLE,0,0.0,1.0
+4,0,4,brand,TITLE,0,0.0,1.0
+1,0,1,fitness apparel,TITLE,0,0.0,1.0
+20,2,22,rating,TITLE,0,0.09090909090909091,0.9090909090909091
+1,0,1,integer value,TITLE,0,0.0,1.0
+0,2,2,sportswear,TITLE,0,1.0,0.0
+3,0,3,size,TITLE,0,0.0,1.0
+0,1,1,winter jacket,TITLE,0,1.0,0.0
+1,0,1,Product Description,TITLE,0,0.0,1.0
+1,0,1,product description,TITLE,0,0.0,1.0
+1,0,1,product attributes,TITLE,0,0.0,1.0
+6,6,12,restaurant,TITLE,0,0.5,0.5
+9,0,9,city,TITLE,0,0.0,1.0
+0,1,1,unknown,TITLE,0,1.0,0.0
+7,0,7,restaurant name,TITLE,0,0.0,1.0
+1,0,1,Chain Rating,TITLE,0,0.0,1.0
+0,15,15,number,TITLE,0,1.0,0.0
+1,0,1,Restaurant Category,TITLE,0,0.0,1.0
+1,0,1,opening hours,TITLE,0,0.0,1.0
+6,1,7,phone number,TITLE,0,0.14285714285714285,0.8571428571428571
+2,0,2,website,TITLE,0,0.0,1.0
+1,0,1,last update,TITLE,0,0.0,1.0
+1,0,1,users,TITLE,0,0.0,1.0
+1,0,1,review count,TITLE,0,0.0,1.0
+3,0,3,username,TITLE,0,0.0,1.0
+1,0,1,Points,TITLE,0,0.0,1.0
+1,0,1,page views,TITLE,0,0.0,1.0
+0,1,1,numeric_value,TITLE,0,1.0,0.0
+1,1,2,hotel_de,TITLE,0,0.5,0.5
+5,0,5,number of photos,TITLE,0,0.0,1.0
+0,1,1,room type,TITLE,0,1.0,0.0
+1,0,1,room description,TITLE,0,0.0,1.0
+1,0,1,hotel_description,TITLE,0,0.0,1.0
+3,1,4,score,TITLE,0,0.25,0.75
+1,0,1,quality,TITLE,0,0.0,1.0
+2,0,2,attraction,TITLE,0,0.0,1.0
+1,0,1,walking time,TITLE,0,0.0,1.0
+2,0,2,travel time,TITLE,0,0.0,1.0
+1,0,1,landmark,TITLE,0,0.0,1.0
+1,0,1,airport_distance,TITLE,0,0.0,1.0
+5,0,5,property description,TITLE,0,0.0,1.0
+8,1,9,property,TITLE,0,0.1111111111111111,0.8888888888888888
+1,0,1,indirizzo,TITLE,0,0.0,1.0
+7,1,8,description,TITLE,0,0.125,0.875
+1,0,1,number of floors,TITLE,0,0.0,1.0
+4,0,4,property price,TITLE,0,0.0,1.0
+1,0,1,property_price,TITLE,0,0.0,1.0
+1,0,1,Real estate agency,TITLE,0,0.0,1.0
+3,0,3,real estate agency,TITLE,0,0.0,1.0
+0,1,1,confidence,TITLE,0,1.0,0.0
+1,0,1,reviews count,TITLE,0,0.0,1.0
+1,0,1,date/time,TITLE,0,0.0,1.0
+0,1,1,restrictions,TITLE,0,1.0,0.0
+1,0,1,accommodation,TITLE,0,0.0,1.0
+2,0,2,region,TITLE,0,0.0,1.0
+0,1,1,cuisine,TITLE,0,1.0,0.0
+1,1,2,location,TITLE,0,0.5,0.5
+1,0,1,Review count,TITLE,0,0.0,1.0
+1,1,2,restaurant description,TITLE,0,0.5,0.5
+1,0,1,neighborhood,TITLE,0,0.0,1.0
+3,0,3,review_count,TITLE,0,0.0,1.0
+0,1,1,delivery/takeout,TITLE,0,1.0,0.0
+0,1,1,accepting reservations,TITLE,0,1.0,0.0
+1,0,1,restaurant address,TITLE,0,0.0,1.0
+1,0,1,restaurant website,TITLE,0,0.0,1.0
+0,1,1,class,TITLE,0,1.0,0.0
+1,0,1,photo count,TITLE,0,0.0,1.0
+3,0,3,amenities,TITLE,0,0.0,1.0
+2,0,2,hotel amenities,TITLE,0,0.0,1.0
+2,0,2,hotel policies,TITLE,0,0.0,1.0
+1,0,1,guest ratings,TITLE,0,0.0,1.0
+1,1,2,destination,TITLE,0,0.5,0.5
+1,0,1,Tourist attractions,TITLE,0,0.0,1.0
+1,0,1,Codice di riferimento,TITLE,0,0.0,1.0
+1,0,1,energy_class,TITLE,0,0.0,1.0
+3,0,3,property type,TITLE,0,0.0,1.0
+1,0,1,classification,TITLE,0,0.0,1.0
+6,5,11,name,TITLE,0,0.45454545454545453,0.5454545454545454
+1,0,1,RE/MAX Office Name,TITLE,0,0.0,1.0
+0,1,1,NaN,TITLE,0,1.0,0.0
+1,0,1,destination_city,TITLE,0,0.0,1.0
+0,1,1,temperature,TITLE,0,1.0,0.0
+1,0,1,Recensioni con foto,TITLE,0,0.0,1.0
+0,5,5,measurement,TITLE,0,1.0,0.0
+5,1,6,distance,TITLE,0,0.16666666666666666,0.8333333333333334
+1,0,1,airport,TITLE,0,0.0,1.0
+1,0,1,time,TITLE,0,0.0,1.0
+1,0,1,extra beds,TITLE,0,0.0,1.0
+1,0,1,price per person,TITLE,0,0.0,1.0
+1,0,1,province,TITLE,0,0.0,1.0
+1,0,1,ID,TITLE,0,0.0,1.0
+2,0,2,area,TITLE,0,0.0,1.0
+0,1,1,appartamento,TITLE,0,1.0,0.0
+2,0,2,condition,TITLE,0,0.0,1.0
+0,1,1,count,TITLE,0,1.0,0.0
+1,0,1,agenzia immobiliare,TITLE,0,0.0,1.0
+1,0,1,number of online ads,TITLE,0,0.0,1.0
+1,0,1,Category,NAME,4.0,0.0,1.0
+1,0,1,property size,TITLE,0,0.0,1.0
+1,0,1,tipo immobile,TITLE,0,0.0,1.0
+3,0,3,property_type,TITLE,0,0.0,1.0
+1,0,1,item_id,TITLE,0,0.0,1.0
+0,1,1,rent,TITLE,0,1.0,0.0
+1,0,1,school,TITLE,0,0.0,1.0
+1,0,1,bar,TITLE,0,0.0,1.0
+2,0,2,year,TITLE,0,0.0,1.0
+1,0,1,real estate agency name,TITLE,0,0.0,1.0
+1,0,1,email,TITLE,0,0.0,1.0
+0,1,1,item value,TITLE,0,1.0,0.0
+1,0,1,contact_email,TITLE,0,0.0,1.0
+1,0,1,provincia,TITLE,0,0.0,1.0
+1,0,1,reference,TITLE,0,0.0,1.0
+1,0,1,number of rooms,TITLE,0,0.0,1.0
+1,0,1,building type,TITLE,0,0.0,1.0
+1,0,1,building floor,TITLE,0,0.0,1.0
+2,2,4,weight,TITLE,0,0.5,0.5
+1,0,1,balcony/terrace/garden,TITLE,0,0.0,1.0
+0,1,1,status,TITLE,0,1.0,0.0
+1,0,1,monthly_cost,TITLE,0,0.0,1.0
+1,0,1,energy consumption,TITLE,0,0.0,1.0
+1,0,1,mutuo,TITLE,0,0.0,1.0
+1,0,1,street,TITLE,0,0.0,1.0
+1,0,1,Viaggi,TITLE,0,0.0,1.0
+0,1,1,hotel_features,TITLE,0,1.0,0.0
+0,1,1,Business hotel,TITLE,0,1.0,0.0
+0,1,1,parcheggio,TITLE,0,1.0,0.0
+0,1,1,Categoria,TITLE,0,1.0,0.0
+1,0,1,language,TITLE,0,0.0,1.0
+0,1,1,hotel_name,TITLE,0,1.0,0.0
+0,1,1,car rental,TITLE,0,1.0,0.0
+0,1,1,attrazioni,TITLE,0,1.0,0.0
+0,2,2,fruit,TITLE,0,1.0,0.0
+0,1,1,Frequently Asked Questions,TITLE,0,1.0,0.0
+0,1,1,famous_attractions_nearby,TITLE,0,1.0,0.0
+1,0,1,attractions,TITLE,0,0.0,1.0
+0,1,1,servizi disponibili,TITLE,0,1.0,0.0
+1,0,1,services,TITLE,0,0.0,1.0
+0,1,1,Cibo e bevande,TITLE,0,1.0,0.0
+1,0,1,comune,TITLE,0,0.0,1.0
+1,0,1,announcement,TITLE,0,0.0,1.0
+1,0,1,availability,TITLE,0,0.0,1.0
+1,0,1,number of 5 stars reviews,TITLE,0,0.0,1.0
+0,1,1,item_value,TITLE,0,1.0,0.0
+1,0,1,number of 4 stars reviews,TITLE,0,0.0,1.0
+1,0,1,number of 3 stars reviews,TITLE,0,0.0,1.0
+0,1,1,NaN values,TITLE,0,1.0,0.0
+1,0,1,number of 2 stars reviews,TITLE,0,0.0,1.0
+1,0,1,product review,TITLE,0,0.0,1.0
+1,0,1,product reviews,TITLE,0,0.0,1.0
+1,0,1,customer review,TITLE,0,0.0,1.0
+1,1,2,customer ratings,TITLE,0,0.5,0.5
+1,0,1,color,TITLE,0,0.0,1.0
+13,1,14,book title,TITLE,0,0.07142857142857142,0.9285714285714286
+1,1,2,title,TITLE,0,0.5,0.5
+9,0,9,author,TITLE,0,0.0,1.0
+0,1,1,library,TITLE,0,1.0,0.0
+1,0,1,Interdisciplinary Studies,TITLE,0,0.0,1.0
+2,0,2,publication,TITLE,0,0.0,1.0
+1,0,1,Adelphi collection,TITLE,0,0.0,1.0
+1,0,1,Adelphi series,TITLE,0,0.0,1.0
+1,0,1,publication year,TITLE,0,0.0,1.0
+4,2,6,book,TITLE,0,0.3333333333333333,0.6666666666666666
+6,0,6,publisher,TITLE,0,0.0,1.0
+0,3,3,age,TITLE,0,1.0,0.0
+0,1,1,numbers,TITLE,0,1.0,0.0
+1,0,1,percentage,TITLE,0,0.0,1.0
+1,0,1,URL,TITLE,0,0.0,1.0
+0,1,1,Mondadori,TITLE,0,1.0,0.0
+4,0,4,ISBN,TITLE,0,0.0,1.0
+1,0,1,premier_league_team,TITLE,0,0.0,1.0
+1,0,1,last name,TITLE,0,0.0,1.0
+1,0,1,birthdate,TITLE,0,0.0,1.0
+3,0,3,height,TITLE,0,0.0,1.0
+1,0,1,premier league team,TITLE,0,0.0,1.0
+6,0,6,player,TITLE,0,0.0,1.0
+1,0,1,player name,TITLE,0,0.0,1.0
+3,0,3,player_name,TITLE,0,0.0,1.0
+2,0,2,position,TITLE,0,0.0,1.0
+1,0,1,date of birth,TITLE,0,0.0,1.0
+0,1,1,bundesliga_value,TITLE,0,1.0,0.0
+0,1,1,bundesliga_score,TITLE,0,1.0,0.0
+0,2,2,bundesliga,TITLE,0,1.0,0.0
+0,1,1,bundesliga_goal_average,TITLE,0,1.0,0.0
+1,0,1,Last match player names,TITLE,0,0.0,1.0
+1,0,1,Bundesliga Player Career,TITLE,0,0.0,1.0
+2,0,2,Player,TITLE,0,0.0,1.0
+0,1,1,defender,TITLE,0,1.0,0.0
+1,0,1,libro,TITLE,0,0.0,1.0
+0,1,1,Storia e critica,TITLE,0,1.0,0.0
+1,0,1,country,TITLE,0,0.0,1.0
+1,0,1,offerte,TITLE,0,0.0,1.0
+1,0,1,book details,TITLE,0,0.0,1.0
+1,0,1,isbn,TITLE,0,0.0,1.0
+0,1,1,poetry,TITLE,0,1.0,0.0
+1,0,1,item price,TITLE,0,0.0,1.0
+0,1,1,giunti,TITLE,0,1.0,0.0
+1,0,1,dimensions,TITLE,0,0.0,1.0
+1,0,1,Player name,TITLE,0,0.0,1.0
+1,0,1,date_of_birth,TITLE,0,0.0,1.0
+0,1,1,points,TITLE,0,1.0,0.0

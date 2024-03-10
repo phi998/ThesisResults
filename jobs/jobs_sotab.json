@@ -1,0 +1,38 @@
+{
+  "ontologyGroup": "sotab",
+  "ontologyFormat": "json",
+  "datasetsGroup": "sotab",
+
+  "jobs": [
+    {"name": "Event_1kbb.com_September2020_CTA", "datasetName": "Event_1kbb.com_September2020_CTA", "ontologyName": "events", "ignore": []},
+    {"name": "Event_2worksmart.com_September2020_CTA", "datasetName": "Event_2worksmart.com_September2020_CTA", "ontologyName": "events", "ignore": []},
+    {"name": "Event_08tickets.com_September2020_CTA", "datasetName": "Event_08tickets.com_September2020_CTA", "ontologyName": "events", "ignore": []},
+    {"name": "Event_180lodi.org_September2020_CTA", "datasetName": "Event_180lodi.org_September2020_CTA", "ontologyName": "events", "ignore": []},
+    {"name": "Event_313cafe.com_September2020_CTA", "datasetName": "Event_313cafe.com_September2020_CTA", "ontologyName": "events", "ignore": []},
+    {"name": "Event_512area.com_September2020_CTA", "datasetName": "Event_512area.com_September2020_CTA", "ontologyName": "events", "ignore": []},
+    {"name": "Event_816area.com_September2020_CTA", "datasetName": "Event_816area.com_September2020_CTA", "ontologyName": "events", "ignore": []},
+    {"name": "Event_941thevoice.com_September2020_CTA", "datasetName": "Event_941thevoice.com_September2020_CTA", "ontologyName": "events", "ignore": []},
+    {"name": "Event_1057thebone.com_September2020_CTA", "datasetName": "Event_1057thebone.com_September2020_CTA", "ontologyName": "events", "ignore": []},
+    {"name": "Event_a2ychamber.org_September2020_CTA", "datasetName": "Event_a2ychamber.org_September2020_CTA", "ontologyName": "events", "ignore": []},
+    {"name": "Event_aaccaa.org_September2020_CTA", "datasetName": "Event_aaccaa.org_September2020_CTA", "ontologyName": "events", "ignore": []},
+    {"name": "Hotel_go-newmexico.com_September2020_CTA", "datasetName": "Hotel_go-newmexico.com_September2020_CTA", "ontologyName": "hotels", "ignore": []},
+    {"name": "Hotel_greatwestway.co.uk_September2020_CTA", "datasetName": "Hotel_greatwestway.co.uk_September2020_CTA", "ontologyName": "hotels", "ignore": []},
+    {"name": "Hotel_halongbaycruise.com_September2020_CTA", "datasetName": "Hotel_halongbaycruise.com_September2020_CTA", "ontologyName": "hotels", "ignore": []},
+    {"name": "Hotel_hercules-tour.ro_September2020_CTA", "datasetName": "Hotel_hercules-tour.ro_September2020_CTA", "ontologyName": "hotels", "ignore": []},
+    {"name": "Hotel_holidayways.ro_September2020_CTA", "datasetName": "Hotel_holidayways.ro_September2020_CTA", "ontologyName": "hotels", "ignore": []},
+    {"name": "Hotel_hotel.de_September2020_CTA", "datasetName": "Hotel_hotel.de_September2020_CTA", "ontologyName": "hotels", "ignore": []},
+    {"name": "Hotel_hotel-rez.com_September2020_CTA", "datasetName": "Hotel_hotel-rez.com_September2020_CTA", "ontologyName": "hotels", "ignore": []},
+    {"name": "Hotel_hotelmanaus.com_September2020_CTA", "datasetName": "Hotel_hotelmanaus.com_September2020_CTA", "ontologyName": "hotels", "ignore": []},
+    {"name": "Hotel_hotels.ru_September2020_CTA", "datasetName": "Hotel_hotels.ru_September2020_CTA", "ontologyName": "hotels", "ignore": []},
+    {"name": "Hotel_hotelvoy.pt_September2020_CTA", "datasetName": "Hotel_hotelvoy.pt_September2020_CTA", "ontologyName": "hotels", "ignore": []},
+    {"name": "Restaurant_mtl.org_September2020_CTA", "datasetName": "Restaurant_mtl.org_September2020_CTA", "ontologyName": "restaurants", "ignore": []},
+    {"name": "Restaurant_munchysdeliveries.com_September2020_CTA", "datasetName": "Restaurant_munchysdeliveries.com_September2020_CTA", "ontologyName": "restaurants", "ignore": []},
+    {"name": "Restaurant_my-langeland.com_September2020_CTA", "datasetName": "Restaurant_my-langeland.com_September2020_CTA", "ontologyName": "restaurants", "ignore": []},
+    {"name": "Restaurant_mymealsinmotionordering.com_September2020_CTA", "datasetName": "Restaurant_mymealsinmotionordering.com_September2020_CTA", "ontologyName": "restaurants", "ignore": []},
+    {"name": "Restaurant_nctriangledining.com_September2020_CTA", "datasetName": "Restaurant_nctriangledining.com_September2020_CTA", "ontologyName": "restaurants", "ignore": []},
+    {"name": "Restaurant_newks.com_September2020_CTA", "datasetName": "Restaurant_newks.com_September2020_CTA", "ontologyName": "restaurants", "ignore": []},
+    {"name": "Restaurant_oneills.co.uk_September2020_CTA", "datasetName": "Restaurant_oneills.co.uk_September2020_CTA", "ontologyName": "restaurants", "ignore": []},
+    {"name": "Restaurant_online-tischreservierung.de_September2020_CTA", "datasetName": "Restaurant_online-tischreservierung.de_September2020_CTA", "ontologyName": "restaurants", "ignore": []},
+    {"name": "Restaurant_opentable.de_September2020_CTA", "datasetName": "Restaurant_opentable.de_September2020_CTA", "ontologyName": "restaurants", "ignore": []}
+  ]
+}

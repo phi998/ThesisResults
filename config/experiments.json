@@ -1,0 +1,18 @@
+{
+    "case1": {
+      "ontology": false, "shots": 1, "fusion": false },
+    "case2": {
+      "ontology": false, "shots": 5, "fusion": false },
+    "case2c": {
+      "ontology": false, "shots": 5, "fusion": false },
+    "case3": {
+      "ontology": true, "shots": 1, "fusion": false },
+    "case3c": {
+      "ontology": true, "shots": 1, "fusion": false },
+    "case3bis": {
+      "ontology": true, "shots": 1, "fusion": true },
+    "case4": {
+      "ontology": true, "shots": 5, "fusion": false },
+    "case4c": {
+      "ontology": true, "shots": 5, "fusion": false }
+}

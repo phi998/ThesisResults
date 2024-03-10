@@ -1,0 +1,23 @@
+DateTime,EventDescription,EventStatusType,EventAttendanceModeEnumeration,Organization,DateTime
+0,1,3,4,5,6
+2020-10-17T20:00:00-04:00,Pinecrest Gardens presents 'Banyan Bowl Live” Featuring Jon Secada,,,Online event,2020-10-17T22:00:00-04:00
+2021-03-26 19:30:00,"The Band's Visit Fri Mar 26, 7:30 PM - Fri Mar 26, 7:30 PM in 178 days",https://schema.org/EventScheduled,https://schema.org/OfflineEventAttendanceMode,Muriel Kauffman Theatre - Kauffman Center for the Performing,2021-03-26 19:30:00
+2020-09-25 19:05:00,"Kansas City Royals vs. Minnesota Twins Fri Sep 25, 7:05 PM - Fri Sep 25, 7:05 PM",https://schema.org/EventScheduled,https://schema.org/OfflineEventAttendanceMode,Kauffman Stadium,2020-09-25 19:05:00
+2020-01-30 19:30:00,"Cirque Du Soleil - Axel Thu Jan 30, 7:30 PM - Thu Jan 30, 7:30 PM",https://schema.org/EventScheduled,https://schema.org/OfflineEventAttendanceMode,Sprint Center,2020-01-30 19:30:00
+2020-09-29T19:30:00-04:00,Vampire Weekend,,,Starlight Theatre,2020-09-29T19:30:00-04:00
+2020-10-14 07:00:00,"Gutter Cleaning Service | Rainier Wed Oct 14, 7:00 AM - Wed Oct 14, 9:30 PM in 15 days",https://schema.org/EventScheduled,https://schema.org/OnlineEventAttendanceMode,Gutter Cleaning Service | Rainier,2020-10-14 21:30:00
+2020-10-21T07:00:00-04:00,Echelon High-End Surveillance Services,,,Echelon High-End Surveillance Services,2020-10-21T14:30:00-04:00
+2020-09-29 19:30:00,"Vampire Weekend Tue Sep 29, 7:30 PM - Tue Sep 29, 7:30 PM",https://schema.org/EventScheduled,https://schema.org/OfflineEventAttendanceMode,Starlight Theatre,2020-09-29 19:30:00
+2020-10-20T07:30:00-04:00,LinkHelpers SEO Professionals,,,LinkHelpers SEO Professionals,2020-10-20T20:00:00-04:00
+2020-01-25 20:00:00,"George Strait Sat Jan 25, 8:00 PM - Sat Jan 25, 8:00 PM",https://schema.org/EventScheduled,https://schema.org/OfflineEventAttendanceMode,Sprint Center,2020-01-25 20:00:00
+2020-09-24 19:05:00,"Kansas City Royals vs. Detroit Tigers Thu Sep 24, 7:05 PM - Thu Sep 24, 7:05 PM",https://schema.org/EventScheduled,https://schema.org/OfflineEventAttendanceMode,Kauffman Stadium,2020-09-24 19:05:00
+2020-02-15 19:05:00,"Kansas City Mavericks vs. Utah Grizzlies Sat Feb 15, 7:05 PM - Sat Feb 15, 7:05 PM",https://schema.org/EventScheduled,https://schema.org/OfflineEventAttendanceMode,Silverstein Eye Centers Arena,2020-02-15 19:05:00
+2020-10-20T08:00:00-04:00,Denver Attorney Howard S. Goodman,,,Denver Attorney Howard S. Goodman,2020-10-20T22:30:00-04:00
+2020-10-21T05:00:00-04:00,Creations In Cuisine Family Style BBQ,,,Creations In Cuisine Family Style BBQ,2020-10-21T16:30:00-04:00
+2020-10-27 19:30:00,"Mean Girls Tue Oct 27, 7:30 PM - Tue Oct 27, 7:30 PM in 28 days",https://schema.org/EventScheduled,https://schema.org/OfflineEventAttendanceMode,Music Hall Kansas City,2020-10-27 19:30:00
+2020-10-31 14:00:00,"Mean Girls Sat Oct 31, 2:00 PM - Sat Oct 31, 2:00 PM in 32 days",https://schema.org/EventScheduled,https://schema.org/OfflineEventAttendanceMode,Music Hall Kansas City,2020-10-31 14:00:00
+2020-03-28 15:00:00,"Disney On Ice: Road Trip Adventures Sat Mar 28, 3:00 PM - Sat Mar 28, 3:00 PM",https://schema.org/EventScheduled,https://schema.org/OfflineEventAttendanceMode,Sprint Center,2020-03-28 15:00:00
+2020-10-14T07:00:00-04:00,Gutter Cleaning Service | Rainier,,,Gutter Cleaning Service | Rainier,2020-10-14T21:30:00-04:00
+2020-10-27T19:30:00-04:00,Mean Girls,,,Music Hall Kansas City,2020-10-27T19:30:00-04:00
+2020-03-06 18:30:00,"Friday March 6th Murder Mystery Dinner Fri Mar 6, 6:30 PM - Fri Mar 6, 9:00 PM",https://schema.org/EventScheduled,https://schema.org/OfflineEventAttendanceMode,Belvoir Winery and Inn,2020-03-06 21:00:00
+2020-01-24 20:30:00,"Just What I Needed - A Tribute To The Cars & Double Vision - Foreigner Tribute B Fri Jan 24, 8:30 PM - Fri Jan 24, 8:30 PM",https://schema.org/EventScheduled,https://schema.org/OfflineEventAttendanceMode,Ameristar Casino & Hotel - Kansas City,2020-01-24 20:30:00

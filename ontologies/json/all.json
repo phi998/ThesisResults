@@ -1,0 +1,113 @@
+{
+  "companies": {
+    "Company Name": { "type": "TITLE", "importance": 9 },
+    "Location": { "type": "TITLE", "importance": 5 },
+    "Foundation": { "type": "DATE", "importance": 3 },
+    "Industry": { "type": "TITLE", "importance": 6 },
+    "Revenue": { "type": "MONEY", "importance": 2 },
+    "Company Description": { "type": "PROSE", "importance": 2 }
+  },
+
+  "eshopping": {
+    "Product Name": { "type": "TITLE", "importance": 9 },
+    "Product Category": { "type": "TITLE", "importance": 6 },
+    "Rating": { "type": "NUMERIC", "importance": 3 },
+    "Price": { "type": "PRICE", "importance": 2 },
+    "Description": { "type": "PROSE", "importance": 1 },
+    "Seller": { "type": "NAME", "importance": 2 }
+  },
+
+  "finance": {
+    "Article title": { "type": "TITLE", "importance": 8 },
+    "Publication Date": { "type": "DATE", "importance": 6 },
+    "Article Content": { "type": "PROSE", "importance": 2 },
+    "Category": { "type": "TITLE", "importance": 4 },
+    "Author": { "type": "NAME", "importance": 2 }
+  },
+
+  "hotels": {
+    "Name" : { "type": "TITLE", "importance": 9 },
+    "City": { "type": "NAME", "importance": 6 },
+    "Price": { "type": "PRICE", "importance": 2 },
+    "Rating": { "type": "RATING", "importance": 3 },
+    "Description": { "type": "PROSE", "importance": 2 },
+    "Benefits": { "type": "TITLE", "importance": 2 },
+    "Check-in hours": { "type": "TIME", "importance": 2 },
+    "Labels or actions": { "type": "TITLE", "importance": 0 },
+    "Additional informations": { "type": "TITLE", "importance": 0 }
+  },
+
+  "jobs": {
+    "Advertisement Title": { "type": "TITLE", "importance": 6 },
+    "Location": { "type": "TITLE", "importance": 3 },
+    "Company Name": { "type": "TITLE", "importance": 7 },
+    "Publication Date": { "type": "DATE", "importance": 3 },
+    "Advertisement Content or description": { "type": "PROSE", "importance": 2 },
+    "Role": { "type": "TITLE", "importance": 7 },
+    "Industry": { "type": "TITLE", "importance": 4 },
+    "Salary": { "type": "NUMERIC", "importance": 2 },
+    "Contract type": { "type": "DISCRETE", "importance": 2 },
+    "Links": { "type": "LINK", "importance": 0 }
+  },
+
+  "realestate": {
+    "Advertisement title": { "type": "TITLE", "importance": 4 },
+    "Price": { "type": "NUMERIC", "importance": 2 },
+    "Surface": { "type": "NUMERIC", "importance": 3 },
+    "Location": { "type": "TITLE", "importance": 4 },
+    "Broker": { "type": "NAME", "importance": 2 },
+    "Heating system": { "type": "DISCRETE", "importance": 2 },
+    "Bathrooms": { "type": "TITLE", "importance": 2 },
+    "Number of rooms": { "type": "NUMERIC", "importance": 2 },
+    "Energy Class": { "type": "DISCRETE", "importance": 2, "notes": "Possible values are letters from A to G" },
+    "Year of construction": { "type": "YEAR", "importance": 5 }
+  },
+
+  "restaurants": {
+    "Name": { "type": "TITLE", "importance": 9 },
+    "Rating": { "type": "RATING", "importance": 3 },
+    "Location": { "type": "TITLE", "importance": 7 },
+    "Address": { "type": "TITLE", "importance": 4 },
+    "Labels/actions": { "type": "TITLE", "importance": 0 },
+    "Additional informations": { "type": "TITLE", "importance": 0 },
+    "Annotation in webpage": { "type": "TITLE", "importance": 0 },
+    "Phone Number": { "type": "NUMERIC", "importance": 0 }
+  },
+
+  "movies": {
+    "Title": { "type": "TITLE", "importance": 9 },
+    "Rating": { "type": "RATING", "importance": 3 },
+    "Duration (in hours)": { "type": "NUMERIC", "importance": 4 },
+    "Director": { "type": "NAME", "importance": 4 },
+    "Year": { "type": "DATE", "importance": 4 },
+    "Actors": { "type": "NAME", "importance": 5 },
+    "Plot": { "type": "PROSE", "importance": 2 },
+    "Earnings": { "type": "NUMERIC", "importance": 2 },
+    "Prize": { "type": "TITLE", "importance": 2 },
+    "Production Companies": { "type": "NAME", "importance": 4 }
+  },
+
+  "books": {
+    "Book Title": { "type": "TITLE", "importance": 9 },
+    "Author": { "type": "NAME", "importance": 7 },
+    "Editor": { "type": "NAME", "importance": 5 },
+    "Date of publication": { "type": "YEAR", "importance": 4 },
+    "Price": { "type": "PRICE", "importance": 2 },
+    "Seller": { "type": "NAME", "importance": 2 },
+    "Pages": { "type": "NUMERIC", "importance": 2 },
+    "Code/ID": { "type": "NUMERIC", "importance": 2 },
+    "Book Description": { "type": "PROSE", "importance": 2 },
+    "Category": { "type": "NAME", "importance": 4 }
+  },
+
+  "footballplayers": {
+    "Player Name": { "type": "NAME", "importance": 9 },
+    "Date of birth": { "type": "DATE", "importance": 6 },
+    "Height": { "type": "NUMERIC", "importance": 3 },
+    "Nationality": { "type": "NAME", "importance": 5 },
+    "Additional Information": { "type": "PROSE", "importance": 2 },
+    "Team": { "type": "NAME", "importance": 6 },
+    "Value": { "type": "PRICE", "importance": 2 },
+    "Role": { "type": "NAME", "importance": 4 }
+  }
+}

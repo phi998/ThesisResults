@@ -1,0 +1,46 @@
+{
+  "restaurants": {
+    "HotelName": { "type": "NAME", "importance": 9 },
+    "PriceRange": { "type": "NUMERIC", "importance": 2 },
+    "AddressRegion": { "type": "STRING", "importance": 5 },
+    "Country": { "type": "STRING", "importance": 2 },
+    "Telephone": { "type": "STRING", "importance": 2 },
+    "PaymentAccepted": { "type": "STRING", "importance": 2 },
+    "PostalCode": { "type": "NUMERIC", "importance": 3 },
+    "Coordinate": { "type": "STRING", "importance": 2 },
+    "DayOfWeek": { "type": "DATE", "importance": 3 },
+    "Time": { "type": "DATE", "importance": 3 },
+    "RestaurantDescription": { "type": "PROSE", "importance": 2 },
+    "Review": { "type": "STRING", "importance": 2 }
+  },
+
+  "events": {
+    "EventName": { "type": "NAME", "importance": 9 },
+    "Date": { "type": "DATE", "importance": 2 },
+    "DateTime": { "type": "DATE", "importance": 2 },
+    "EventStatusType": { "type": "STRING", "importance": 3 },
+    "EventDescription": { "type": "PROSE", "importance": 2 },
+    "EventAttendanceModeEnumeration": { "type": "STRING", "importance": 2 },
+    "Organization": { "type": "STRING", "importance": 4 },
+    "Currency": { "type": "STRING", "importance": 2 },
+    "Telephone": { "type": "STRING", "importance": 2 }
+  },
+
+  "hotels": {
+    "HotelName": { "type": "NAME", "importance": 9 },
+    "PriceRange": { "type": "NUMERIC", "importance": 2 },
+    "Telephone": { "type": "STRING", "importance": 2 },
+    "FaxNumber": { "type": "STRING", "importance": 2 },
+    "Country": { "type": "STRING", "importance": 2 },
+    "Time": { "type": "DATE", "importance": 3 },
+    "PostalCode": { "type": "NUMERIC", "importance": 3 },
+    "AddressLocality": { "type": "STRING", "importance": 2 },
+    "email": { "type": "STRING", "importance": 3 },
+    "LocationFeatureSpecification": { "type": "STRING", "importance": 2 },
+    "HotelDescription": { "type": "PROSE", "importance": 3 },
+    "Review": { "type": "STRING", "importance": 2 },
+    "Rating": { "type": "STRING", "importance": 2 },
+    "PaymentAccepted": { "type": "STRING", "importance": 2 },
+    "Photograph": { "type": "STRING", "importance": 2 }
+  }
+}
